@@ -1,4 +1,163 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>GEEK STUDIO</title><description>Write the code, testing, and deploy</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Sat, 12 Sep 2015 06:23:06 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Hello World</title><description>&lt;p&gt;Hai semua!, Perkenalkan kami dari geek studio community..&lt;/p&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>GEEK STUDIO</title><description>Write the code, testing, and deploy</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Sat, 12 Sep 2015 08:09:08 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Alhamdulillah!! We got Winner Award On Indonesia Information and Communicaiton Technology Award 2015</title><description>&lt;p&gt;Alhamdulillah.. &lt;br&gt;
+Tanggal 9 Septemebr 2015 salah satu project PT. Starlabs Global Teknologi yang di bangun di geek studio bareng mahasiswa magang mendapatkan penghargaan di INAICTA 2015 (Indonesia ICT Award 2015) untuk kategori Research and Development (RnD).&lt;/p&gt;
+
+&lt;p&gt;Project yang kami submit adalah Averi, yang merupakan aplikasi untuk melakukan deteksi akun prostitusi&lt;/p&gt;</description><link>http://localhost:2368/alhamdulillah-we-got-winner-on-indonesia-information-and-communicaiton-technology-award-2015/</link><guid isPermaLink="false">5663539e-7128-4c16-a25e-a1c502ed698f</guid><dc:creator>Hendri Karisma</dc:creator><pubDate>Sat, 12 Sep 2015 08:05:25 GMT</pubDate><content:encoded>&lt;p&gt;Alhamdulillah.. &lt;br&gt;
+Tanggal 9 Septemebr 2015 salah satu project PT. Starlabs Global Teknologi yang di bangun di geek studio bareng mahasiswa magang mendapatkan penghargaan di INAICTA 2015 (Indonesia ICT Award 2015) untuk kategori Research and Development (RnD).&lt;/p&gt;
+
+&lt;p&gt;Project yang kami submit adalah Averi, yang merupakan aplikasi untuk melakukan deteksi akun prostitusi atau bukan di twitter. Aplikasi ini di tanam suatu sistem intelijen dengan memanfaatkan machine learning untuk membentuk pengetahuan mengenai profile twitts akun twitter yang melakukan praktik prostitusi online.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/11988460_10205036690576455_2754389731841796304_n.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;Beberapa bulan yang lalu terjadi kasus pembunuhan @tataa&lt;em&gt;chubby (&lt;a href="https://twitter.com/tataa"&gt;https://twitter.com/tataa&lt;/a&gt;&lt;/em&gt;chubby) yang merupakan penjaja sex komersial yang menawarkan jasanya via twitter terungkap bahwa tidak sedikit pelaku prostitusi online via twitter di Indonesia. Kami melihat ini sesuatu yang miris dan cukup berbahaya. Kami pun melakukan riset melihat seberapa banyak dan seperti apa konten para pemiliki akun prostitusi tersebut. Kami cukup tercengang ketika baru melakukan pengecekan ke beberapa akun yang berasal dari akun following dan follower akun tataa_chubby. Menurut kami kondisi ini cukup berbahaya, prostitusi terselubung yang sempat tidak tercium masyarakat dan berpotensi dapat membahayakan generasi muda manusia Indonesia hari ini. Di dunia online terutama social network seperti twitter yang menyerbu kita pada hari ini dengan berbagai informasi secara berlebih, dan memberikan kemudahan interaksi seperti komunikasi yang menjadi  jalur kunci utama proses transaksi prostitusi online hari ini. Sulit bagi para petugas berwenang untuk menyelidiki para pelaku tersebut, atau para orang tua melindungi anaknya.&lt;/p&gt;
+
+&lt;p&gt;Berdasarkan hal tersebut kami melakukan riset dan development membangun prototype aplikasi web dan mobile untuk melakukan pengecekan kondisi suatu akun twitter bahwa pemilik akun tersebut merupakan pelaku prostitusi online via twitter.com atau bukan.  Aplikasi ini memiliki tiga fitur utama yaitu melakukan pengecekan status akun twitter,  melakukan pengecekan akun-akun follower dan following dari suatu akun x, dan melakukan pengumpulan informasi dan memberikan info graphic berupa sebaran pelaku prostitusi online via twitter. Kami menanamkan sistem intelijensi pada aplikasi kami dengan mengambil informasi akun-akun tersebut (twit) lalu menganalisisnya secara otomatis menggunakan Artifcial Intelligence.&lt;/p&gt;
+
+&lt;p&gt;Dengan Aplikasi ini diharapkan dapat membantu pihak-pihak tertentu seperti kepolisian untuk melakukan pengecekan akun, melihat sebaran wilayah pemilik akun, atau pencarian akun pelaku prostitusi online, atau menjadi apliksai parental yang membantu orang tua mengontrol atau mengecek akun anak-anaknya apakah mengikuti akun pelaku prostitusi online ataupun jika ternyata anaknya di ikuti atau diawasi pelaku prostitusi online di twitter.&lt;/p&gt;
+
+&lt;p&gt;Ini foto-foto waktu presentasi final, tim yang berangkan Kang Eko (CTO starlabs.id), Hendri (CDS starlabs.id), dan Deni (Mobile Engineer starlabs.id). &lt;br&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/10344141_10205037657800635_2696608247411077115_o.jpg" alt=""&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/11921714_10206746814846468_5001608838716498409_o.jpg" alt=""&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/11924365_10206746813406432_2721542074401971929_o.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;Dan akhirnya hasil tanggal 9 September 2015 :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/12001079_10205042649925435_1976418979106077972_o.jpg" alt=""&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/12009566_10205045744602800_6139167501226099781_n.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;Dan ini dia penampakan thropy nya tarraaa :&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/IMG_20150910_174206.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;Semoga ini mejadi booster tambahan untuk semangat geek studio hahahahaa... keep coding :)))&lt;/p&gt;</content:encoded></item><item><title>Geek Studio jalan-jalan ke Pizza Data Community Bandung</title><description>&lt;p&gt;Wuih kemarin geek studio ikut diskusi bareng ke Pizza Data Community Bandung, di Co&amp;amp;Co, Jl. Dipatiukur, Bandung. &lt;br&gt;
+Tema Pizza data community  kali ini adalah pendidikan. Diundang juga perwakilan dari pemerintah (sepertinya dinas pendidikan), namanya Kang Chandra dari dinas pendidikan Kota Bandung.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/CNQWcGhUwAANwpJ.jpg" alt=""&gt;
+Nah kang Chandra yang lagi berdiri di&lt;/p&gt;</description><link>http://localhost:2368/geek-studio-jalan-jalan-ke-pizza-data-community-bandung/</link><guid isPermaLink="false">2216ce04-779d-421e-8b92-4950968914b3</guid><dc:creator>Hendri Karisma</dc:creator><pubDate>Sat, 12 Sep 2015 07:49:23 GMT</pubDate><content:encoded>&lt;p&gt;Wuih kemarin geek studio ikut diskusi bareng ke Pizza Data Community Bandung, di Co&amp;amp;Co, Jl. Dipatiukur, Bandung. &lt;br&gt;
+Tema Pizza data community  kali ini adalah pendidikan. Diundang juga perwakilan dari pemerintah (sepertinya dinas pendidikan), namanya Kang Chandra dari dinas pendidikan Kota Bandung.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/CNQWcGhUwAANwpJ.jpg" alt=""&gt;
+Nah kang Chandra yang lagi berdiri di depan. Menjelaskan tentang PPDB Kota Bandung &lt;a href="http://ppdb.bandung.go.id/"&gt;http://ppdb.bandung.go.id/&lt;/a&gt; yang bermasalah kemarin dan berbagai kebijakan pemerintah.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/CNQmMGhU8AAjsVt.jpg" alt=""&gt;
+Nah ada yang lucu sih, waktu kita dari geek studio menanyakan soal penerapan kebijakan pemerintah kota bandung mengenai "kebijakan memilih sekolah berbasis wilayah merupakan upaya kontribusi bidang pendidikan untuk mendukung tata kota"&lt;/p&gt;
+
+&lt;p&gt;yang katanya harapannya mengurangi kemacetan dan menghilangkan citra sekolah favourit. Namun pada kenyataannya di USA di amiriki sanah, sistem tersebut sepertinya sudah diterapkan, dan didokumentasikan dalam film "Waiting for Superman", bisa dilihat ulasan mengenai film ini di blog Hendri &lt;a href="https://situkangsayur.wordpress.com/2014/08/17/waiting-for-superman-film-dokumenter-pendidikan-di-negara-paman-sam/"&gt;https://situkangsayur.wordpress.com/2014/08/17/waiting-for-superman-film-dokumenter-pendidikan-di-negara-paman-sam/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Nah, ternyata di negeri amerika itu tetap muncul permasalahan yang tidak jauh berbeda dengan di bandung, apa itu? kualitas setiap sekolah tidak sama dan terjadi ketimpangan, dan menyedihkan, seleksi siswa yang masuk ke sekolah itu menggunakan lotre, tp itu cukup adil sepertinya, jadi semua memiliki kesempatan yang sama hahaha , selanjutnya bisa dibaca di blog diatas.&lt;/p&gt;
+
+&lt;p&gt;Nah disini anak2 geek studio dengan temen-temen lainnya di pizza data sama-sama diskusi mengenai solusi yang bisa dibangun dengan memanfaatkan data yang ada atau membuat sistem pengambilan data yang lebih baik untuk menyelesaikan berbagai masalah pendidikan di Kota Bandung. &lt;br&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/CNQf6YJVAAAmq_v.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/CNQwWNMUYAA-DkX.jpg" alt=""&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/CNQxQEsVAAEk6AV.jpg" alt=""&gt;
+tim hura-hura mia, syalza, dan zhena &lt;br&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/11875102_422838307903086_8159471436596888617_o.jpg" alt=""&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/11951818_422838237903093_6899022837552585817_n.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;Video waktu trio kwek kwek geek studio bisa diliat di :&lt;/p&gt;
+
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/R8DpoaA-_l4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe width="640" height="360" src="https://www.youtube.com/embed/xJ8-x3yB4LA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/11953376_422838304569753_1628516206842834867_o.jpg" alt=""&gt;
+Nah ini dia peserta yang ada di geek studio kemarin hehehe &lt;br&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/CNTZA3AU8AAs6H_.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;hoorraaayyy...&lt;/p&gt;</content:encoded></item><item><title>Pindah-pindah ruangan</title><description>&lt;p&gt;Kali ini geek studio sudah pindah ruangan dua kali, tapi the show must go on hahaha &lt;br&gt;
+nah ini suasana geek studio setelah kedatangan anggota tambahan yang PKL di geek studio :D&lt;/p&gt;
+
+&lt;p&gt;Jadi ruangan sebelumnya gak cukup, akhirnya kita pindah ke ruangan depan yang sekarang jadi sengketa hahahaa, katanya nunggu keputusan&lt;/p&gt;</description><link>http://localhost:2368/pindah-pindah-ruangan-2/</link><guid isPermaLink="false">c1e57b3f-57e1-4534-89de-68290ebb2397</guid><dc:creator>Hendri Karisma</dc:creator><pubDate>Sat, 12 Sep 2015 07:30:04 GMT</pubDate><content:encoded>&lt;p&gt;Kali ini geek studio sudah pindah ruangan dua kali, tapi the show must go on hahaha &lt;br&gt;
+nah ini suasana geek studio setelah kedatangan anggota tambahan yang PKL di geek studio :D&lt;/p&gt;
+
+&lt;p&gt;Jadi ruangan sebelumnya gak cukup, akhirnya kita pindah ke ruangan depan yang sekarang jadi sengketa hahahaa, katanya nunggu keputusan dari pemkot. :)))&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/10986657_416302285223355_1564472430575608754_o--1-.jpg" alt=""&gt;
+Nah yang pake seragam biru atau hijau, itu siswa-siswi PKL dari Tasik, Cimahi, dan Cianjur :D&lt;/p&gt;
+
+&lt;p&gt;Semua belajar gnu/linux, java, dan git hahahahaa&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/11145093_416302155223368_2533740284185371206_o.jpg" alt=""&gt;
+Nah kita seneng coret-coret di kaca? kenapa? secara psikologis ini lebih asik sih hahaha kita tulis, hitung berbagai hal, kita estimasi risk , metode dan lain-lain. &lt;br&gt;
+kita juga menggunakan scrum sebagai metodologi yang kita gunakan untuk software development.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/11203520_416302211890029_8734704732494148449_o.jpg" alt=""&gt;
+yang ini beryl terlalu lama sendiri :)))&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/11794168_416302458556671_6650490383448926360_o--1-.jpg" alt=""&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/11794505_416304801889770_6015315438708651441_o.jpg" alt=""&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/11800586_416942321826018_5514071508427396116_n.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/11816253_416302288556688_2411223601938776762_o.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/11828611_416942285159355_8440949051665065178_n--1-.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;Nah ini lagi diskusi mengenai code java, (pencitraan doang) &lt;br&gt;
+hahahaa&lt;/p&gt;
+
+&lt;p&gt;Nah tunggu apalagi? ayo ikut gabung bareng geek studio hehehehe&lt;/p&gt;
+
+&lt;p&gt;oh ya kali ini kita dah pindah ke lantai 5 (sebelumnya di lantai 4)  walaupun unofficial hahahaa&lt;/p&gt;</content:encoded></item><item><title>Acara Sharing Ngabuburit di Geek Studio</title><description>&lt;h2 id="havingfunwithjavagit"&gt;Having fun with Java &amp;amp; Git&lt;/h2&gt;
+
+&lt;p&gt;nah ini dia acara yang watu bulan Ramadhan kemarin kita ngadain acara ngabuburit sambil sharing teknologi di bidang software development.&lt;/p&gt;
+
+&lt;p&gt;Kali ini geek studio mau sharing mengenai teknologi java dan versioning control git. Kenapa git? karena sekarang di kampus dan sekolah-sekolah SMK masih saja&lt;/p&gt;</description><link>http://localhost:2368/acara-sharing-ngabuburit-di-geek-studio-2/</link><guid isPermaLink="false">90b9da95-5946-4f7c-ae53-77548d25ae24</guid><dc:creator>Hendri Karisma</dc:creator><pubDate>Sat, 12 Sep 2015 07:18:30 GMT</pubDate><content:encoded>&lt;h2 id="havingfunwithjavagit"&gt;Having fun with Java &amp;amp; Git&lt;/h2&gt;
+
+&lt;p&gt;nah ini dia acara yang watu bulan Ramadhan kemarin kita ngadain acara ngabuburit sambil sharing teknologi di bidang software development.&lt;/p&gt;
+
+&lt;p&gt;Kali ini geek studio mau sharing mengenai teknologi java dan versioning control git. Kenapa git? karena sekarang di kampus dan sekolah-sekolah SMK masih saja banyak yang tidak tau mengenai apa sih versioning control system, padahal notabene jurusan mereka adalah Teknik Informatika, Ilmu Komputer, Informatika, atau RPL (Rekayasa Perangkat Lunak).&lt;/p&gt;
+
+&lt;p&gt;Nah kali ini kang Eko kurniawan Khannedy Chief Technology Officer (CTO) PT. Starlabs Global Teknologi, sharing mengenai teknologi java kekinian, dan mengambil scala sebagai teknologi yang ingin di perkenalkan.&lt;/p&gt;
+
+&lt;p&gt;Setelahnya diselingi dengan pengenalan VCS (Versioning Control System) git oleh Kang Ahmad Arif yang merupakan Instruktur Praktikum dan Gambit Studio. &lt;br&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/11045451_406483519538565_998706275507746357_o.jpg" alt=""&gt;
+Gambar : Hendri sedang sharing mengenai Geek Studio &lt;br&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/11010312_406483826205201_3070997017521894944_o.jpg" alt=""&gt;
+Gambar : Kang Eko lagi sharing mengenai scala &lt;br&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/11026069_406483529538564_5479952540822309745_o.jpg" alt=""&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/11223341_406483536205230_1803648515524160245_o.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/11227410_406483889538528_5755023962523265761_o.jpg" alt=""&gt;
+Gambar : temen-temen yang hadir ikut acara ngabuburit. Ini campur anak-anak PKL Animasi cca juga. &lt;br&gt;
+setelah itu acara mau mendekati maghrib baru tinggal anak-anak informatika hehee &lt;br&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/11703480_406483836205200_6207702693306021790_o.jpg" alt=""&gt;
+Gambar : nah yg paling belakang itu, sekumpulan cewek-cewek yang di belakang merupakan siswi dari SMK Al-Itihad Cianjur, yang sekarang sedang PKL juga di Geek Studio.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/11722438_406483976205186_2792609810935234648_o.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;Nah rame kan di geek studio?? kita belajar dan sharing bareng disini, mengenai software development, startup company, teknologi dan lain-lain soal IT. :D&lt;/p&gt;</content:encoded></item><item><title>What we do in geek studio?</title><description>&lt;p&gt;Hai ini posting kedua :D&lt;/p&gt;
+
+&lt;p&gt;Ini beberapa potret pencitraan anak-anak geek studio, kita dah pindah tempat beberapa kali di BITC, dikarenakan BITC sendiri merupakan gedung milik pemerintah kota cimahi, yang katanya untuk komunitas, but actually kita sendiri merasa agak sulit jg memanfaatkannya secara optimal. &lt;br&gt;
+Tapi kami tetap mengahasil beberapa karya&lt;/p&gt;</description><link>http://localhost:2368/what-we-do-in-geek-studio/</link><guid isPermaLink="false">59d51a77-39bd-4966-ba24-be35081b7a2b</guid><dc:creator>Hendri Karisma</dc:creator><pubDate>Sat, 12 Sep 2015 07:08:08 GMT</pubDate><content:encoded>&lt;p&gt;Hai ini posting kedua :D&lt;/p&gt;
+
+&lt;p&gt;Ini beberapa potret pencitraan anak-anak geek studio, kita dah pindah tempat beberapa kali di BITC, dikarenakan BITC sendiri merupakan gedung milik pemerintah kota cimahi, yang katanya untuk komunitas, but actually kita sendiri merasa agak sulit jg memanfaatkannya secara optimal. &lt;br&gt;
+Tapi kami tetap mengahasil beberapa karya di geek studio hahahahaa the show must go on right!&lt;/p&gt;
+
+&lt;p&gt;Ini kegiatan kita di awal awal, sekitar akhir Juni, ketika geek studio baru mulai berjalan :D&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/11402984_403915363128714_6462765182919665859_n.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/10502256_403915359795381_8656986220117095901_n.jpg" alt=""&gt;
+Dulu hanya ada dua mentor, yaitun Hendri Karisma dan Eko Kurniawan Khannedy, dua-duanya co-founder PT. Starlabs Global Teknologi.&lt;/p&gt;
+
+&lt;p&gt;Awal ada 5 orang siswi SMKN 4 entah 40 bandung, lupa. Namun ternyata katanya gak kuat ikut training di geek studio jadi menyerah, tingga 2 orang mahasiswa magang dari Telkom University.&lt;/p&gt;
+
+&lt;p&gt;Nah selanjutnya gabung 5 siswa dari SMK di Tasik, namun 4 orang sama-sama menyerah, sehingga sisa tinggal satu orang dari Tasik yaitun Faridh. &lt;br&gt;
+Ini foto kegiatan sekitar awal Juli dan mulai memasuki Bulan Ramadhan hehee &lt;br&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/10999700_408069779379939_5153588144838856715_o.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/10012197_404353179751599_5264325729884858471_o.jpg" alt=""&gt;
+&lt;img src="http://localhost:2368/content/images/2015/09/11698974_404352123085038_7139358849965113746_o.jpg" alt=""&gt;&lt;/p&gt;
+
+&lt;p&gt;Di geek studio, kita belajar menggunakan gnu/linux, karena ketika melakukan development untuk perangkat lunak, OS paling enak yang yang berbasis unix seperti gnu/linux atau mac hahahaa..&lt;/p&gt;
+
+&lt;p&gt;Windows untuk beberapa kasus mungkin bisa digunakan seperti ketika diharuskan menggunakan kinnect atau realsense atau karena device yang hanya support di diatas windows.&lt;/p&gt;
+
+&lt;p&gt;Kita juga belajar bagaimana menggunakan versioning controll seperti git menggunakan terminal, karena akan lebih cepat dan mudah.&lt;/p&gt;
+
+&lt;p&gt;Di geek studio kita pun terkadang main bareng atau menghadiri acara meet up sharing mengenai IT seperti IoT community atau pizza data community.&lt;/p&gt;
+
+&lt;p&gt;So, buat yang mau ikut gabung langsung aja datang ke tempat kita kumpul :D&lt;/p&gt;</content:encoded></item><item><title>Hello World</title><description>&lt;p&gt;Hai semua!, Perkenalkan kami dari geek studio community..&lt;/p&gt;
 
 &lt;p&gt;Apa itu geek studio?? &lt;br&gt;
 geek studio merupakan komunitas untuk para penggiat software development, coder, programmer, engineer, startup, atau yang mau belajar gimana sih software development di Industri?&lt;/p&gt;
