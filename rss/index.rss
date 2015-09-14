@@ -1,4 +1,48 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>GEEK STUDIO</title><description>Write the code, testing, and deploy</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Sat, 12 Sep 2015 09:56:07 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Alhamdulillah!! We got Winner Award in INAICTA 2015</title><description>&lt;p&gt;Alhamdulillah.. &lt;br&gt;
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0"><channel><title>GEEK STUDIO</title><description>Write the code, testing, and deploy</description><link>http://localhost:2368/</link><generator>Ghost 0.7</generator><lastBuildDate>Mon, 14 Sep 2015 15:18:41 GMT</lastBuildDate><atom:link href="http://localhost:2368/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title>Cara Running http://pcottle.github.io/learnGitBranching/ di komputer lokal kita</title><description>&lt;p&gt;Ok, ini cara sederhana untuk menjalankan learnGitBranching yang merupakan git repository visualizer, untuk memudahkan kita belajar branching di vcs git.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Pertama tentunya kita harus sudah menginstall git di sistem operasi yang kita gunakan. Untuk ubuntu bisa menggunakan : &lt;code&gt;$sudo apt-get install git&lt;/code&gt;  &lt;/li&gt;
+&lt;li&gt;Kita harus clone project learnGitBranching di &lt;a href="https://github.com/pcottle/learnGitBranching"&gt;https://github.com/&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;</description><link>http://localhost:2368/cara-running-http-pcottle-github-io-learngitbranching-di-komputer-lokal-kita/</link><guid isPermaLink="false">39b7606e-143b-4da6-8fe2-e306fa7d5dbf</guid><dc:creator>Geek Studio</dc:creator><pubDate>Mon, 14 Sep 2015 15:18:26 GMT</pubDate><content:encoded>&lt;p&gt;Ok, ini cara sederhana untuk menjalankan learnGitBranching yang merupakan git repository visualizer, untuk memudahkan kita belajar branching di vcs git.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Pertama tentunya kita harus sudah menginstall git di sistem operasi yang kita gunakan. Untuk ubuntu bisa menggunakan : &lt;code&gt;$sudo apt-get install git&lt;/code&gt;  &lt;/li&gt;
+&lt;li&gt;Kita harus clone project learnGitBranching di &lt;a href="https://github.com/pcottle/learnGitBranching"&gt;https://github.com/pcottle/learnGitBranching&lt;/a&gt; &lt;br&gt;
+&lt;ul&gt;&lt;li&gt;dengan cara : &lt;code&gt;$git clone git@github.com:pcottle/learnGitBranching.git&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Karena learnGitBranching menggunakan nodejs makan kita harus menginstall Install nodejs dan npm nya dan grunt : &lt;br&gt;
+&lt;ul&gt;&lt;li&gt;install nodejs di mac : &lt;code&gt;$brew install nodejs&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;sedangkan di ubuntu : &lt;code&gt;$sudo apt-get install nodejs&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;lalu install grunt dengan menggunakan npm : &lt;code&gt;$npm install -g grunt-cli&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Setelah itu masuk ke project learnGitBranching yang sebelumnya sudah di clone, lalu ketik : &lt;br&gt;
+&lt;ul&gt;&lt;li&gt;&lt;code&gt;$npm install&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;setelah sukses lalu ketik : &lt;code&gt;$grunt&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;untuk mac mungkin harus menginstall : &lt;code&gt;$brew install watchman&lt;/code&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Setelah semua selesai tinggal running project dengan cara : &lt;code&gt;$npm start&lt;/code&gt; &lt;br&gt;
+Jika bermasalah coba menggunakan sudo : &lt;code&gt;$sudo npm start&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/Screen-Shot-2015-09-14-at-10-13-49-PM.png" alt=""&gt;
+Ketika grunt berjalan...&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/Screen-Shot-2015-09-14-at-10-14-58-PM.png" alt=""&gt;
+Setelah npm start berjalan, berarti server sudah up di localhost:8081&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/Screen-Shot-2015-09-14-at-10-15-08-PM.png" alt=""&gt;
+tampilan learnGitBranch berjalan di localhost:8081&lt;/p&gt;</content:encoded></item><item><title>Hari ini Belajar GIT Branching</title><description>&lt;p&gt;Ok hari ini kita bareng-bareng belajar mengenai git branching, seperti membuat branch baru, pindah dari satu branch ke branch lain, merge branch, rebase branch, cherry-pick dan rebase dengan mengambil check point tertentu, dan lain-lain juga.&lt;/p&gt;
+
+&lt;p&gt;Sebenarnya banyak versioning control yang bisa digunakan untuk memanage source code dalam project kita, salah&lt;/p&gt;</description><link>http://localhost:2368/hari-ini-belajar-git-branching/</link><guid isPermaLink="false">7b978a73-1cd6-4719-afe6-2edbcea07ed5</guid><dc:creator>Geek Studio</dc:creator><pubDate>Mon, 14 Sep 2015 14:52:29 GMT</pubDate><content:encoded>&lt;p&gt;Ok hari ini kita bareng-bareng belajar mengenai git branching, seperti membuat branch baru, pindah dari satu branch ke branch lain, merge branch, rebase branch, cherry-pick dan rebase dengan mengambil check point tertentu, dan lain-lain juga.&lt;/p&gt;
+
+&lt;p&gt;Sebenarnya banyak versioning control yang bisa digunakan untuk memanage source code dalam project kita, salah satunya sub version (svn) tapi vcs ini sudah mulai jarang digunakan, yang paling lama salah satunya adalah CVS atau (Concurrent Versions System), yang agak kekinian ada git dan mercurial.&lt;/p&gt;
+
+&lt;p&gt;Yang digunakan di geek studio adalah git, kita pake github, dan gitlab untuk menyimpan source code kita. Kita pake 2 branch di repository server yaitu master dan dev untuk development. Dan asiknya ketika kita deploy kita bisa menggunakan fitur deployment key, jadi ketika kita ingin melakukan cloning ke dalam server, ya kita menggunakan ssh-key server untuk di kenalkan dalam deployment keynya repository server global.&lt;/p&gt;
+
+&lt;p&gt;Tapi di local kita membuat banyak branch untuk setiap bug atau pun fitur, seperti membuat branch untuk feature a, b, c dan seterusnya atau bugFixing a, b, c, d dan seterusnya, setelah beres baru kita merge atau rebase.&lt;/p&gt;
+
+&lt;p&gt;Kadang belajarnya agak ribet juga, jadi kita menggunakan &lt;a href="http://pcottle.github.io/learnGitBranching/"&gt;http://pcottle.github.io/learnGitBranching/&lt;/a&gt; &lt;br&gt;
+untuk belajar langsung secara visual agar lebih mudah dan menari mengenai git branching. Projectnya bisa di donwload juga sehingga bisa running di komputer local kita, kalau koneksi internet lagi buruk hahaha...&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/IMG_20150914_134855.jpg" alt="rpl"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://localhost:2368/content/images/2015/09/IMG_20150914_134850.jpg" alt=""&gt;&lt;/p&gt;</content:encoded></item><item><title>Alhamdulillah!! We got Winner Award in INAICTA 2015</title><description>&lt;p&gt;Alhamdulillah.. &lt;br&gt;
 Tanggal 9 Septemebr 2015 salah satu project PT. Starlabs Global Teknologi yang di bangun di geek studio bareng mahasiswa magang mendapatkan penghargaan di INAICTA 2015 (Indonesia Information and Communication Technology Award 2015) untuk kategori Research and Development (RnD).&lt;/p&gt;
 
 &lt;p&gt;Project yang kami submit adalah Averi, yang merupakan aplikasi untuk melakukan&lt;/p&gt;</description><link>http://localhost:2368/alhamdulillah-we-got-winner-on-indonesia-information-and-communicaiton-technology-award-2015/</link><guid isPermaLink="false">5663539e-7128-4c16-a25e-a1c502ed698f</guid><dc:creator>Geek Studio</dc:creator><pubDate>Sat, 12 Sep 2015 08:05:25 GMT</pubDate><content:encoded>&lt;p&gt;Alhamdulillah.. &lt;br&gt;
